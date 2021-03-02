@@ -1,2 +1,2 @@
-# fist-repository
+# first-repository
 test
